@@ -27,11 +27,11 @@ A **Frontend Software Engineer** passionate about building fast, scalable, and u
 > Real-time staff attendance and payroll system  
 - Built with React, Node.js, MongoDB, JWT  
 - Geolocation clock-ins, automated Cron-based clock-outs, and payslip email dispatching
-- 
+  
 ### 🧰 [My Portfolio Website](https://github.com/biolafrica/Portfolio-user)  
 > Personal portfolio showcasing projects, blog, and contact information
--Built with Next.js, supabase, utteranc.es
--Fully responsive design with live project previews and blog integration
+- Built with Next.js, supabase, utteranc.es
+- Fully responsive design with live project previews and blog integration
 
 ### 📝 [EatUp Blog Platform](https://github.com/biolafrica/Eatup-blog)  
 > Responsive blog for a food delivery company  
