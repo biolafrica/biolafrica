@@ -20,8 +20,8 @@ A **Frontend Software Engineer** passionate about building fast, scalable, and u
 
 ### 🤖 [AI-Powered Staff Training](https://github.com/biolafrica/training)  
 > Built using Next.js,tailwindCSS Supabase, and AI (via Latitude)
--Scenario-based chat interactions tailored to different roles (e.g. rider, order manager)
--Stores session history, provides summaries, and supports role-specific analytics
+- Scenario-based chat interactions tailored to different roles (e.g. rider, order manager)
+- Stores session history, provides summaries, and supports role-specific analytics
 
 ### 🔧 [Humanforce](https://github.com/biolafrica/humanforce)  
 > Real-time staff attendance and payroll system  
