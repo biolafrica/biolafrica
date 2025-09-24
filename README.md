@@ -18,25 +18,27 @@ A **Frontend Software Engineer** passionate about building fast, scalable, and u
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI-Powered Staff Training](https://github.com/biolafrica/training)  
-> Built using Next.js,tailwindCSS Supabase, and AI (via Latitude)
-- Scenario-based chat interactions tailored to different roles (e.g. rider, order manager)
-- Stores session history, provides summaries, and supports role-specific analytics
+### 📝 [EatUp Food Delivery Platform](https://eatup.ng)  
+> Responsive blog for a food delivery company  
+- Admin content management, SEO-optimized URLs, email subscriptions, and sharing options  
+- Built with EJS, Node.js, Express, and MongoDB
 
 ### 🔧 [Humanforce](https://github.com/biolafrica/humanforce)  
 > Real-time staff attendance and payroll system  
 - Built with React, Node.js, MongoDB, JWT  
 - Geolocation clock-ins, automated Cron-based clock-outs, and payslip email dispatching
+
+### 🤖 [AI-Powered Staff Training](https://github.com/biolafrica/training)  
+> Built using Next.js,tailwindCSS Supabase, and AI (via Latitude)
+- Scenario-based chat interactions tailored to different roles (e.g. rider, order manager)
+- Stores session history, provides summaries, and supports role-specific analytics
+
   
 ### 🧰 [My Portfolio Website](https://github.com/biolafrica/Portfolio-user)  
 > Personal portfolio showcasing projects, blog, and contact information
 - Built with Next.js, supabase, utteranc.es
 - Fully responsive design with live project previews and blog integration
 
-### 📝 [EatUp Blog Platform](https://github.com/biolafrica/Eatup-blog)  
-> Responsive blog for a food delivery company  
-- Admin content management, SEO-optimized URLs, email subscriptions, and sharing options  
-- Built with EJS, Node.js, Express, and MongoDB
 
 ### 💱 [Mola P2P Exchange](https://github.com/biolafrica/Mola)  
 > Peer-to-peer currency exchange platform  
