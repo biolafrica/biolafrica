@@ -19,37 +19,17 @@ A **Frontend Software Engineer** passionate about building fast, scalable, and u
 ## 🚀 Featured Projects
 
 ### 📝 [EatUp Food Delivery Platform](https://eatup.ng)  
-> Responsive blog for a food delivery company  
-- Admin content management, SEO-optimized URLs, email subscriptions, and sharing options  
-- Built with EJS, Node.js, Express, and MongoDB
+> A food delivery platform connecting customers with local restaurants for quick and easy meals.
 
-### 🔧 [Humanforce](https://github.com/biolafrica/humanforce)  
-> Real-time staff attendance and payroll system  
-- Built with React, Node.js, MongoDB, JWT  
-- Geolocation clock-ins, automated Cron-based clock-outs, and payslip email dispatching
+### 🔧 [16Bags](https://www.16bags.com/)  
+>A B2B marketplace for buying, selling, and leasing medium-scale businesses. 
 
-### 🤖 [AI-Powered Staff Training](https://github.com/biolafrica/training)  
-> Built using Next.js,tailwindCSS Supabase, and AI (via Latitude)
-- Scenario-based chat interactions tailored to different roles (e.g. rider, order manager)
-- Stores session history, provides summaries, and supports role-specific analytics
-
-  
-### 🧰 [My Portfolio Website](https://github.com/biolafrica/Portfolio-user)  
-> Personal portfolio showcasing projects, blog, and contact information
-- Built with Next.js, supabase, utteranc.es
-- Fully responsive design with live project previews and blog integration
-
-
-### 💱 [Mola P2P Exchange](https://github.com/biolafrica/Mola)  
-> Peer-to-peer currency exchange platform  
-- Real-time updates with WebSocket, Paystack integration for secure payments  
-- Role-based dashboards and live order matching
 
 ---
 
 ## 📚 Recent Blog Posts
 
-- [Why I Started Coding](https://www.abiodunbiobaku.com/blog/20)  
+- [How I Built a Food Delivery Platform Processing 200+ Daily Orders](https://www.abiodunbiobaku.com/blog/3f58d23e-bfea-4a33-9463-12428abe4521)  
 <!--- [Building a Real-Time Attendance App with Node.js and MongoDB](https://abiodunbiobaku.com/blog/realtime-attendance-app)-->
 
 ---
