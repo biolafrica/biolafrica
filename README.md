@@ -45,7 +45,6 @@ A **Frontend Software Engineer** passionate about building fast, scalable, and u
 ## 📫 Let’s Connect
 
 - 🌐 [abiodunbiobaku.com](https://abiodunbiobaku.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abiobaku/)  
 - 💻 [GitHub](https://github.com/biolafrica)
 
 If you’re building something cool, especially in **tech** I’d love to collaborate!
